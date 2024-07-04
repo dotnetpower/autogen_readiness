@@ -9,5 +9,7 @@ virtualenv venv
 pip install pyautogen
 ```
 
+introduction.py 부터
+
 
 
